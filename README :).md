@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @S3QUI
+- 👋 Hi, I’m Paulo Sequeira
 - 👀 I’m interested in learn T.I and share some personal progresses
 - 🌱 I’m currently learning T.I
 - 📫 You can reach me by Discord or E-mail
-- 🎮 Discord: S3QUI#8967
+- 🎮 Discord: https://discord.gg/Q6vUVaHX
 - 📩 E-mail: Paulosequeira99@gmail.com
 
 <!---
