@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paulo Sequeira
-- 👀 I’m interested in learn T.I and share some personal progresses
-- 🌱 I’m currently learning T.I
+- 👀 I’m interested in learn I.T and share some personal progresses
+- 🌱 I’m currently learning I.T
 - 📫 You can reach me by Discord or E-mail
 - 🎮 Discord: https://discord.gg/Q6vUVaHX
 - 📩 E-mail: Paulosequeira99@gmail.com
